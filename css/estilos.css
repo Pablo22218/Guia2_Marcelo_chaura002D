@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor1{
+    background-color: lightblue;
+    border: solid 70px lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor1 h1{
+    color: white;
+}
+
+.contenedor1 p{
+    color: white;
+}
+
+.contenedor2{
+    background-color: yellow;
+    border: solid 70px yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.contenedor2 h1{
+    color: white;
+}
+
+.contenedor2 p{
+    color: white;
+}
+
+.contenedor3{
+    background-color: orange;
+    border: solid 70px orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor3 h1{
+    color: white;
+}
+
+.contenedor3 p{
+    color: white;
+}
+
+.contenedor4{
+    background-color: red;
+    border: solid 70px red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor4 h1{
+    color: white;
+}
+
+.contenedor4 p{
+    color: white;
+}
+
+.Navegacion{
+    background-color: black;
+    height: 45px;
+}
+
+.Navegacion li{
+    display: block;
+    float: left;
+    padding: 8px;
+}
+
+.Navegacion li a{
+    text-decoration: none;
+    color: white;
+}
+
+.Navegacion li:hover{
+    background-color: lemonchiffon;
+}
